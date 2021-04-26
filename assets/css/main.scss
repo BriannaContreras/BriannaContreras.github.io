@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+// Add custom overrides here.
+@charset "utf-8";
+
+$link-color: #2f7d95;//#0000ff; //#3d4144; 
+$link-color-hover: #235d6e; //black; 
+$primary-color: black; 
+
+// $footer-background-color: black;
+// $masthead-link-color: black; // Header link colors
+$masthead-link-color-hover: black;
+
+
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Change how post links are shown. Didn't like how skin made one color definition for multiple types of links.
+.archive {
+    .archive__item {
+      .archive__item-title {
+        a {
+          text-decoration: none;
+          color: #494e52;
+        }
+        a:hover {
+          text-decoration: underline;
+          color: black;
+        }
+      }
+    }
+}

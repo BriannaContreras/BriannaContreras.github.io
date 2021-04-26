@@ -1,0 +1,8 @@
+To override theme defaults:
+    assets/css/main.scss
+
+To run locally:
+    bundle exec jekyll serve 
+
+To change just one theme:
+    sass/minimalmistakes/skins
