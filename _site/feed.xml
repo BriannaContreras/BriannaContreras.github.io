@@ -1,26 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-26T01:17:31-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brianna Contreras</title><subtitle>My Senior Project</subtitle><author><name>Brianna Contreras</name></author><entry><title type="html">Apples &amp;amp; Bananas</title><link href="http://localhost:4000/post/first-post/" rel="alternate" type="text/html" title="Apples &amp;amp; Bananas" /><published>2021-04-24T07:50:00-06:00</published><updated>2021-04-24T07:50:00-06:00</updated><id>http://localhost:4000/post/first-post</id><content type="html" xml:base="http://localhost:4000/post/first-post/">&lt;p&gt;&lt;img src=&quot;/assets/images/pie.jpg&quot; alt=&quot;Link Dead&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-19T22:46:24-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brianna Contreras</title><subtitle>My Senior Project</subtitle><author><name>Brianna Contreras</name></author><entry><title type="html">Creamy White Bean Fettuccine Alfredo</title><link href="http://localhost:4000/post/alfredo/" rel="alternate" type="text/html" title="Creamy White Bean Fettuccine Alfredo" /><published>2021-04-27T07:50:00-06:00</published><updated>2021-04-27T07:50:00-06:00</updated><id>http://localhost:4000/post/alfredo</id><content type="html" xml:base="http://localhost:4000/post/alfredo/">&lt;p&gt;&lt;img src=&quot;/assets/images/alfredo.jpg&quot; alt=&quot;Link Dead&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A yummy and fast recipe. This has many vitamins and minerals. No protein tho. TEST POST. REMOVE LATER.&lt;/p&gt;
+&lt;p&gt;Opting for a white bean sauce and mixing in some colorful veggies, this vegan take on the classic dish is sure to satisfy.&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Cost: ~ $10&lt;/li&gt;
-  &lt;li&gt;Prep Time: 5 minutes&lt;/li&gt;
-  &lt;li&gt;Cook Time: 10 minutes&lt;/li&gt;
+  &lt;li&gt;8 oz. dry whole wheat fettuccine&lt;/li&gt;
+  &lt;li&gt;15-oz. can cannellini beans, rinsed and drained (1½ cups)&lt;/li&gt;
+  &lt;li&gt;2 cloves garlic&lt;/li&gt;
+  &lt;li&gt;2 tablespoons nutritional yeast&lt;/li&gt;
+  &lt;li&gt;2 tablespoons almond butter&lt;/li&gt;
+  &lt;li&gt;⅓ cup ready-to-eat sun-dried tomatoes, thinly sliced&lt;/li&gt;
+  &lt;li&gt;Sea salt and freshly ground black pepper, to taste&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;nutrition-breakdown&quot;&gt;Nutrition Breakdown&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Protein:&lt;/strong&gt; 10 grams&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Carbohyrdrates:&lt;/strong&gt; 5 grams&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fat:&lt;/strong&gt; 3 grams&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;steps&quot;&gt;Steps&lt;/h3&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;Heat your oven to 350 degrees&lt;/li&gt;
-  &lt;li&gt;Mix apples and bananas in bowl&lt;/li&gt;
-  &lt;li&gt;Buy an Apple Pie&lt;/li&gt;
-&lt;/ol&gt;
+  &lt;li&gt;Cook fettuccine till al dente, add sugar snap peas for the last few minutes.&lt;/li&gt;
+  &lt;li&gt;Drain and save ¾ cup cooking liquid for sauce.&lt;/li&gt;
+  &lt;li&gt;Add beans, garlic, nutritional yeast, and almond butter into a food processor.  Process into a smooth paste. Add the cooking liquid you set aside and process till combined.&lt;/li&gt;
+  &lt;li&gt;In a large pot, add your pasta and peas. Mix in bean sauce and sun-dried tomatoes.&lt;/li&gt;
+  &lt;li&gt;Add salt and pepper to taste.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Brianna Contreras</name></author><category term="post" /><category term="Recipe" /><category term="Pasta" /><summary type="html"></summary></entry><entry><title type="html">Lentil Soup</title><link href="http://localhost:4000/post/lentil-soup/" rel="alternate" type="text/html" title="Lentil Soup" /><published>2021-04-24T07:50:00-06:00</published><updated>2021-04-24T07:50:00-06:00</updated><id>http://localhost:4000/post/lentil-soup</id><content type="html" xml:base="http://localhost:4000/post/lentil-soup/">&lt;p&gt;&lt;img src=&quot;/assets/images/lentil_soup.jpg&quot; alt=&quot;Link Dead&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;cook&quot;&gt;Cook&lt;/h3&gt;
-&lt;p&gt;Put the stuff in the oven&lt;/p&gt;</content><author><name>Brianna Contreras</name></author><category term="post" /><category term="Recipe" /><category term="Apples" /><category term="TestPost" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;A hearty and nutritious option for cold evenings.&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 minced onions&lt;/li&gt;
+  &lt;li&gt;2 minced carrots&lt;/li&gt;
+  &lt;li&gt;6 small white potatoes, chopped into small pieces&lt;/li&gt;
+  &lt;li&gt;1 16-ounce bag brown lentils&lt;/li&gt;
+  &lt;li&gt;1 15.5-ounce can of diced tomatoes&lt;/li&gt;
+  &lt;li&gt;8 cups vegetable broth or water&lt;/li&gt;
+  &lt;li&gt;1-2 cups minced spinach&lt;/li&gt;
+  &lt;li&gt;salt and pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;directions&quot;&gt;Directions&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Set spinach to the side.&lt;/li&gt;
+  &lt;li&gt;Add all your ingredients to a pot and let simmer for 2 hours&lt;/li&gt;
+  &lt;li&gt;Add in your spinach a few minutes before serving&lt;/li&gt;
+  &lt;li&gt;Add salt and pepper to taste&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Brianna Contreras</name></author><category term="post" /><category term="Recipe" /><category term="Soup" /><summary type="html"></summary></entry></feed>

@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Brianna Contreras"
-  avatar           : "/assets/images/fred.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/images/fred.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "Idaho Falls, ID"
   email            : # 

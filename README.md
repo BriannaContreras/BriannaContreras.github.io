@@ -1,2 +1,2 @@
 # Brianna Contreras
-Senior Project in progress...
+Senior Project
